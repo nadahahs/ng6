@@ -1,0 +1,7 @@
+aku dah buat routing dalam branch first-branch
+tetiba tak dapat jumpa data.service plak
+fix dengan tambah ../ masa import
+then error fixed tetapi tak keluar apa2 plak
+so revert balik ke css yang sebelum routing
+dan create 2nd branch ni dengan nama
+start-routing
